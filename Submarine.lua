@@ -10,7 +10,7 @@ MAX_ANGLE = 40 -- 最大角度
 --------------------
 -- 周回レーダーブイ軌道オプション
 --------------------
-AROUND_RADAR_BUOY_ENABLED = true -- 周回レーダーブイ機能を有効にするか否か
+AROUND_RADAR_BUOY_ENABLED = false -- 周回レーダーブイ機能を有効にするか否か
 HEIGHT_OFFSET = 100 -- 目標の頭上何mを回るか
 AROUND_DISTANCE = 200 -- 周回半径
 
